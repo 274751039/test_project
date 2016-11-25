@@ -1,0 +1,9 @@
+...<unittest.suite.TestSuite tests=[<test_createworkspace.MyTest testMethod=test_createworkspace>]>
+<unittest.suite.TestSuite tests=[<test_createworkspace.MyTest testMethod=test_createworkspace>, <test_deleteworkspace.MyTest testMethod=test_deleteworkspace>]>
+<unittest.suite.TestSuite tests=[<test_createworkspace.MyTest testMethod=test_createworkspace>, <test_deleteworkspace.MyTest testMethod=test_deleteworkspace>, <test_login.MyTest testMethod=test_login>]>
+iCloudUnion
+
+----------------------------------------------------------------------
+Ran 3 tests in 92.397s
+
+OK

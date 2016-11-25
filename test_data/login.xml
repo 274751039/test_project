@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<info>
+    <explain>iCloudUnion登录</explain>
+        <url>http://192.168.1.55:8080</url>
+        <null username="" password="">请输入邮箱</null>
+        <pawd_null username="zhongshunci@unionbigdata.com" password="">请输入密码</pawd_null>
+        <user_null username="" password="123456">请输入邮箱</user_null>
+        <error_user username="xxxxxx" password="123456">该用户不存在</error_user>
+        <error_pawd username="zhongshunci@unionbigdata.com" password="xxxxxx">用户名密码不一致</error_pawd>
+        <error username="xxx" password="xxx">密码长度不符合要求</error>
+        <user_pawd username="zhongshunci@unionbigdata.com" password="123456">登录</user_pawd>
+</info>

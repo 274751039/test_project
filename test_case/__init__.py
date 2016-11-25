@@ -1,0 +1,3 @@
+import test01_login
+import test02_createworkspace
+import test03_deleteworkspace
